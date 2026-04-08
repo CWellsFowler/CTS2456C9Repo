@@ -1,1 +1,0 @@
-This repository contains GPA1A and GPA1B files for CTS2456C Assignment 9.
